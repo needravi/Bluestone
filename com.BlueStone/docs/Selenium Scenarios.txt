@@ -1,0 +1,68 @@
+1.Open browser
+enter URL(bluestone)
+go to search and search for rings
+go to gold purity
+get count of 22k
+close browser
+
+
+2.open Browser
+enter URL(bluestone)
+go to search and search for rings
+go to Gender
+get count of women
+close browser
+
+3. Open browser
+enter URL(bluestone)
+scroll upto some axis
+check wheather top icon is dispalyed or not
+if it displayed click on it
+close browser
+
+4. open browser
+enter URL(blustone)
+click on goldmine 10+1 Sceheme 
+with out entering monthly amount and email address and click on start now
+verify wheather error msg is diaplaying or not .
+Close browser.
+
+5. open browser
+enter URL(blustone)
+click on goldmine 10+1 Sceheme
+enter monthly amount and email address and click on start now
+verify wheather monthly amount and email address entered is reflected in this page
+close browser
+
+6. open browser
+enter URL(blustone)
+click on goldmine 10+1 Sceheme
+enter monthly amount and email address and click on startnow 
+verify wheather monthly amount and email address entered is reflected in next page
+close browser
+
+7. open browser
+enter URL(blustone)
+click on goldmine 10+1 Sceheme
+enter monthly amount and email address and click on start now 
+with out filling any information click on next
+verify wheather error msg is diaplaying or not in all fields
+close browser
+
+8. open browserenter URL(blustone)click on goldmine 10+1 Scehemeenter monthly amount and email address and click on start nowwith out filling any information click on nextverify wheather error msg is diaplaying or not in all fieldsclose browser
+
+9 . open browserenter url(bluestone)click on visit our storescheck the count of locationsclose browser
+
+10. open browserenter url(bluestone)search for ringsclick on any productverify original price discount price and actual price
+
+11. open browserenter url(yatra)select boarding and de-boarding and select any citiesselect any date and select return date and return date should be a difference of 15 daysNote: return date should be select dynamically it should not be hard-codedselect 2 adults 1 child and 1 infantselect premium economyand capture no of flights available.
+
+12. open browserenter url()slide the slider upto end in multiples times it should come in reverse order in multiple timesclose Browser
+
+13. Steps:
+1. Open www.bluestone.com
+2. Click Login
+3. Enter credentials
+4. Click Log in
+
+Log in button is disabled
