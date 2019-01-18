@@ -1,0 +1,71 @@
+1.database connectivity  sql exception
+1.load the driver
+Driver driverref=new Driver();
+
+DriverManager.registerDriver(driverref);
+2.connect the dataase
+connection conn=DriverManager.getConnection("jdbc:mysql://localhost:3036/dbname");
+
+
+3.prepare sql statement
+
+String s="select * from emp";
+4exicute query
+Statement stat=createstatement();
+state.executeQuery(s);
+
+5.close the db
+
+conn.close();
+
+
+2.dropdown application
+
+select case:
+ Select s=new Select(elem);
+s.SelectByVisibleText();
+s.SelectByindix();
+s.SelectByvalue();
+
+3.actions class
+Actions a=new Actions(driver);
+a.movetoElement(elem).perform();
+a.draganddrop(b1,b3).perform();
+a.contextclick(elem).perform();
+a.click(elem).perfom();
+
+4. frames:
+
+driver.switchto.frames(elem);
+driver.switchto.frames(index);
+dirver.switchto.frames(id or name);
+
+
+driver.switchto.defaultcontent();
+
+driver.swithto.parentpframe()
+
+
+5allert interface(); 
+
+Alert a=switchto.alert();
+a.dismiss();
+a.accept();
+
+6.
+indiependent and dependent xpath
+
+//[id=""]../td[0];
+
+7. data driven testing
+path="./hi.jpg";
+FileInputStream fis=new FileInputStream(path);
+
+
+
+
+
+
+
+
+
